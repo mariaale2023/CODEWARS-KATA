@@ -6,5 +6,5 @@ In the Software Craftsmanship movement, programmers may refer to kata as small c
 
 It is important to note that these solutions are intended for educational purposes only  and should not be used directly on Codewars katas. Instead, it is recommended to create original solutions in order to maximize learning. These katas are the ways how I resolved it.
 
-[Follow me]([url](https://www.codewars.com/dashboard))
+[Follow me](https://www.codewars.com/dashboard)
 
