@@ -73,5 +73,5 @@ console.log(isValidWalk(["n", "n", "n", "s", "n", "s", "n", "s", "n", "s"]));
 const myArray = ["w", "e", "w", "e", "w", "e", "w", "e", "w", "e", "w", "e"];
 
 // How to get the count of each letter
-
+let amor;
 // how to get the values from the object
