@@ -1,5 +1,8 @@
 # CODEWARS-KATA
 
+![codewars samurai](kata.jpg)
+*image created by dall-e*
+
 The website Codewars offers a variety of code challenges, known as kata, which are designed to enhance programming skills and techniques. These challenges can focus on building a foundation of programming fundamentals or solving more complex problems. Some katas require creative problem solving skills, while others are based on real-world coding scenarios.
 
 In the Software Craftsmanship movement, programmers may refer to kata as small code snippets that they write in a single session, sometimes repeatedly, in order to improve their coding abilities through regular practice and muscle memory development.
